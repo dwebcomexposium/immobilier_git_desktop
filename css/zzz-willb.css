@@ -1,0 +1,71 @@
+/*EVENT*/
+
+/*List*/
+body.page-events .layout-2-col { margin: auto; max-width: 950px; padding-top: 40px; }
+body.page-events .mod-catal .form-select:after { z-index: 2; }
+.mod-catal .catal-ex-item-stand-more-link, .mod-catal .catal-ex-item-cat-more-link { color: #1a04c4; }
+.mod-catal .catal-ex-item-stand-more-link:hover, .mod-catal .catal-ex-item-cat-more-link:hover { color: #0a043d; }
+.mod-catal .form-item-radio [type="radio"]:checked+.radio-title:after, .mod-catal .form-item-checkbox [type="radio"]:checked+.radio-title:after, .mod-catal .form-item-radio [type="checkbox"]:checked+.checkbox-title:after, .mod-catal .form-item-checkbox [type="checkbox"]:checked+.checkbox-title:after { background-color:#1a04c4 ; border: 0; }
+body.page-events  h4.catal-results-title {margin-top: 15px; padding: 9px 20px 12px;}
+body.page-events .catal-ex-item-img { width: 140px; height: auto; }
+body.page-events .catal-ex-item-cat-title {color: #1a04c4 ; }
+
+body.page-events .shape:nth-child(1) { background-color: #1a04c4; }
+body.page-events .shape:nth-child(2) { background-color: #130294; }
+body.page-events .shape:nth-child(3) { background-color: #0a043d; }
+
+
+
+/*Item*/
+body.page-events .catal-ed-main { background: transparent; padding: 0; }
+body.page-events .mod-catal h1 {text-align: center; width: 100%; font-size: 32px; }
+body.page-events  h2.catal-ed-main-stand-title.catal-ed-title {padding-top: 0!important; color: #1a04c4; }
+body.page-events .mod-catal a {  color: #1a04c4; text-decoration: underline; }
+body.page-events .mod-catal .catal-ed-main h2, body.page-events .mod-catal .catal-ed-main-title {  padding-top: 30px; font-size: 20px; font-weight: 700; }
+body.page-events .catal-ed-main-title { border-bottom: 0!important; line-height: normal; padding: 010px 0 0!important; margin: 0; }
+body.page-events .mod-catal .catal-ed-products .catal-edp-item { border-bottom: 0; line-height: normal; padding: 0; }
+body.page-events .catal-ed-group-title {border-bottom: 0!important; line-height: normal; padding: 0;}
+body.page-events .mod-catal .catal-ed-main .catal-ed-main-desc-title { margin-bottom: 0; font-size: 20px; font-weight: 700; text-transform: uppercase; color: #1a04c4; border-bottom: none; margin-top: 0; }
+body.page-events div.catal-ed-main-session { border: 1px solid #1a04c4; background: #fff; } 
+body.page-events .catal-ex-details a:hover, body.page-events .catal-ex-details a:focus, body.page-events .catal-ex-details a:active {background: transparent; }
+body.page-events .mod-catal ul, body.page-events  .mod-catal ol {padding: 0; }
+body.page-events .event-type-li:before, .persons-event:before { border: 3px solid #df306c!important; margin-right: 0.5rem; 
+    -webkit-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+}
+body.page-events .mod-catal.catal-nav-ex .catal-nav-ex-link:focus, body.page-events .mod-catal.catal-nav-ex .catal-nav-ex-link:hover {color: #1a04c4; background-color: #fff;  } 
+body.page-events .block-small .la-item, body.page-events .la-slider .slider-item, body.page-events .la-slider .la-item-img {padding: 0; margin: 0; } 
+body.page-events .block-small.list-articles .slider-pagin-nb  {padding-bottom: 10px; }
+body.page-events .slider-pagin-item {background-color: #1a04c4; border: 0; border-radius: 50%; } 
+body.page-events .slider-pagin-item.is-active {background-color: #fff;  } 
+body.page-events .slider-pagin-item.is-active:hover {background-color: #1a04c4;  } 
+body.page-events .slider [class*="slider-btn"] .icon, .slider [class*="slider-btn"] .icon-catal {color: #0a043d;  } 
+body.page-events .slider [class*="slider-btn"] {border: 0;  } 
+body.page-events .slider [class*="slider-btn"]:focus, .slider [class*="slider-btn"]:hover {background: #1a04c4;  } 
+body.page-events .mod-catal .selection-empty  {text-align: left;  } 
+.icon-catal-calendar:before { content: ""!important; display: block; width: 23px; height: 23px;     background-image: url(/theme/immobilier_git_desktop/img/icons/ico-add-to-calendar.svg); }
+button.btn-primary.with-icon.ac-js-switcher-remote:hover .icon-catal-calendar:before {background-image: url(/theme/immobilier_git_desktop/img/icons/ico-add-to-calendar-hover.svg); width: 23px; height: 23px; }
+body.page-events .mod-catal .catal-ed-main .catal-ed-main-media  {width: 210px;  } 
+body.page-events .ac-list {background: #fff;  } 
+body.page-events .mod-catal.edito { margin: 0 0 30px; }
+body.page-events .catal-ex-details .catal-ex-item-buttons { flex-direction: row; ms-flex-direction: row; webkit-flex-direction: row; float: none; text-align: center; margin-left: 100px; padding-bottom: 20px;  }
+body.page-events .mod-catal [class^="btn"], .mod-catal .btn {font-family: Quicksand, Helvetica, serif; }
+body.page-events .mod-catal .catal-ex-item-buttons [class^=btn] {font-size: 13px; }
+body.page-events .catal-nav-ex.mod-catal {margin-bottom: 15px; }
+body.page-events a.catal-nav-ex-more-link.back_button {position: relative; z-index: 999999; }
+
+
+.article-content figure.fr small, .article-content figure.fl small{display: block; }
+
+.article-content ul.style1 {display : flex; padding: 0; margin: 0; align-items: center;  justify-content: center;}
+.article-content ul.style1 li:before {display: none; }
+.article-content ul.style1 li {padding: 0 20px 0 0; display: flex; }
+
+.article-content .center {text-align: center;}
+
+.article #zone2 .article-wrapper .article-content .focus1 a {color: #fff;}
+
+
+
+    

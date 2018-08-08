@@ -1,0 +1,40 @@
+/*cacher picto parcours*/
+.mod-catal .catal-ex-item-cat-icon {
+    display: none;
+}
+
+
+/* Pub article Immo toulouse */
+
+.article.node389513.toulouse #zone4 .block-openx
+{
+text-align: inherit;
+}
+
+
+.social-and-dates .wrapper .sosial .icons .sr-list li .sr-link .icon-linkedin{
+
+background-image: url(/theme/immobilier_git_desktop/img/icons/icon-linkedin-yellow.svg);
+
+}
+
+
+header.site-banner div.block.block-small.quicklinks.social ul i.icon-linkedin{
+    background-image: url(/theme/immobilier_git_desktop/img/icons/icon-linkedin-gris.svg);
+    background-repeat: no-repeat;
+    background-position: 1px 8px;
+    FONT-SIZE: 17px;
+    width: 20px!important;
+}
+.social-sharing, #zone1 .side-quicklinks .ql-item .btn-primary{
+border : 0;
+}
+
+
+/****** MASQUE AJOUTER A MA SELECTION ********/
+
+button.btn-primary.with-icon.js-mySelection {
+    display: none;
+}
+
+/***** CHANGE LE NOMBRE d'ITEMS DANS LES OFFRES DE STANDS DE LA PARTIE ESPACE EXPOSANT ******/
