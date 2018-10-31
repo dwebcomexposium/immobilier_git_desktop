@@ -103,7 +103,7 @@ div#cxpmClientAccountWidget .logged span#widgetFirstnameText {
     padding: 0 2px 0px 0px;
 }
 
-#cxpmClientAccountWidget .widget-icon>span.number, #cxpm-connect-sso-dropdown .widget-icon>span.number {
+#cxpmClientAccountWidget .widget-my-selection .widget-icon>span.number, #cxpm-connect-sso-dropdown .widget-my-selection .widget-icon>span.number {
     color: white;
     font-weight: bold;
     width: 15px;
