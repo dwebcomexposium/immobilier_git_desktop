@@ -37,6 +37,7 @@ button.btn-primary.with-icon.js-mySelection {
     position: absolute;
     margin-left: -236px;
     margin-top: -8px;
+	outline: 0;
 }
 .icon-catal-catal-star-empty:before, .icon-catal-star-empty:before {
     width: 15px;
@@ -48,7 +49,7 @@ button.btn-primary.with-icon.js-mySelection {
     text-transform: uppercase;
     font-size: 11px;
 }
-.js-mySelection .selection-empty span.animation-txt:hover, .js-mySelection .selection-full span.animation-txt:hover{ 
+.js-mySelection:hover .selection-empty span.animation-txt, .js-mySelection:hover .selection-full span.animation-txt:hover{ 
 color:#df306c;
 }
 .icon-catal-star-delete:before, .icon-star-delete:before{
