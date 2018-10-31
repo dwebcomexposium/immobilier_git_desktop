@@ -58,6 +58,16 @@ color:#df306c;
     margin-top: -1px;
 }
 
+.page-events button.btn-primary.with-icon.js-mySelection {
+    margin-left: -166px;
+    padding-right: 0;
+    margin-right: 0;
+}
+
+.page-events .mod-catal h3.catal-ex-item-title {
+    max-width: 77%;
+}
+
 /***** CHANGE LE NOMBRE d'ITEMS DANS LES OFFRES DE STANDS DE LA PARTIE ESPACE EXPOSANT ******/
 
 
