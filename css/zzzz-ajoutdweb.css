@@ -34,7 +34,27 @@ border : 0;
 /****** MASQUE AJOUTER A MA SELECTION ********/
 
 button.btn-primary.with-icon.js-mySelection {
-    display: none;
+    position: absolute;
+    margin-left: -236px;
+    margin-top: -8px;
+}
+.icon-catal-catal-star-empty:before, .icon-catal-star-empty:before {
+    width: 15px;
+    height: 15px;
+    margin-top: -1px;
+}
+
+.js-mySelection .selection-empty span.animation-txt, .js-mySelection .selection-full span.animation-txt {
+    text-transform: uppercase;
+    font-size: 11px;
+}
+.js-mySelection .selection-empty span.animation-txt:hover, .js-mySelection .selection-full span.animation-txt:hover{ 
+color:#df306c;
+}
+.icon-catal-star-delete:before, .icon-star-delete:before{
+	width: 15px;
+    height: 15px;
+    margin-top: -1px;
 }
 
 /***** CHANGE LE NOMBRE d'ITEMS DANS LES OFFRES DE STANDS DE LA PARTIE ESPACE EXPOSANT ******/
