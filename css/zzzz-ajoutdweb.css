@@ -73,7 +73,7 @@ div#cxpmClientAccountWidget .logged span#widgetFirstnameText {
     font-size: 13px;
 }
 
-iv#cxpmClientAccountWidget .logged a.widgetCapLogout {
+#cxpmClientAccountWidget .logged .widget-text span a.widgetCapLogout {
     font-size: 0.45em;
-    color: #afafaf;
+	color: #afafaf;
 }
