@@ -79,6 +79,10 @@ div#cxpmClientAccountWidget {
     font-family: Open Sans,sans-serif;
 }
 
+.toulouse div#cxpmClientAccountWidget{
+margin-right:0px;
+}
+
 #cxpmClientAccountWidget .not-logged .widget-text span a{
 	font-size: 12px;
     text-transform: uppercase;
