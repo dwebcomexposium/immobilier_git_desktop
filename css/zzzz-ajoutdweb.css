@@ -186,6 +186,23 @@ background-image: url(/theme/immobilier_git_desktop/img/icons/icon-usercompte.sv
     content: "";
 }
 
+
+
+
+/**** NEWSLETTER ****/
+
+.newsletter-form .optin-container {
+    position: absolute;
+    margin-top: 62px;
+    width: 100%;
+}
 .newsletter-form form .nf-result div {
     color: #ffffff!important;
+}
+.newsletter-form form  .nf-form-input{
+
+}
+
+.newsletter-form .nf-main-content{
+padding: 40px 40px 60px 40px !important; 
 }
