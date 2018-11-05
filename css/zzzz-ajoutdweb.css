@@ -200,7 +200,13 @@ background-image: url(/theme/immobilier_git_desktop/img/icons/icon-usercompte.sv
     width: 100%;
 }
 .newsletter-form form .nf-result div {
-    color: #ffffff!important;
+    margin-top: -26px;
+    position: absolute;
+    right: 0;
+    float: right;
+    font-size: 10px;
+    background: #fff;
+    padding: 7px;
 }
 .newsletter-form form  .nf-form-input{
 
