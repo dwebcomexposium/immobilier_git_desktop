@@ -139,3 +139,7 @@ div#cxpmClientAccountWidget .logged span#widgetFirstnameText {
 #cxpmClientAccountWidget .widget-icon:hover, #cxpm-connect-sso-dropdown .widget-icon:hover {
     color: initial;
 }
+
+.newsletter-form form .nf-result div {
+    color: #ffffff!important;
+}
