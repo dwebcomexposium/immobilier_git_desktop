@@ -179,6 +179,7 @@ background-image: url(/theme/immobilier_git_desktop/img/icons/icon-usercompte.sv
     -webkit-transition: all .2s ease;
     -o-transition: all .2s ease;
     transition: all .2s ease;
+	    margin-top: -4px;
 
 }
 
