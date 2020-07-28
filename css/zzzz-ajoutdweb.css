@@ -1,8 +1,12 @@
 /*cacher picto parcours*/
 .mod-catal .catal-ex-item-cat-icon {
-    display: none;
+    display:red!important;
 }
 
+/*RS en rouge dans le catalogue*/
+.mod-catal .catal-ex-item.is-premium .catal-ex-item-title a {
+    color: #566e02;
+}
 
 /* Pub article Immo toulouse */
 
