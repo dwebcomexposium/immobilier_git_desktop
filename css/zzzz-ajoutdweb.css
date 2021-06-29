@@ -226,3 +226,13 @@ padding: 40px 40px 60px 40px !important;
 .article #zone2 .article-wrapper .article-content h3, .article_list #zone2 .article-wrapper .article-content h3 {
     padding: 20px 0 15px 0;
 }
+
+/*Catalogue New*/
+#catalog-v2 .textAccent {
+    color: #df306c;
+}
+
+#catalog-v2 .bgTint {
+    background-color: #fc0;
+}
+
